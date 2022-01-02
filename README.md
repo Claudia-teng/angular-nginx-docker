@@ -26,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # angular-nginx-docker
+
+
+How to Serve an Angular App with nginx in Docker
+https://typeofnan.dev/how-to-serve-an-angular-app-with-nginx-in-docker/
